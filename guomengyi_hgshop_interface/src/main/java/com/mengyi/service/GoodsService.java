@@ -38,7 +38,7 @@ public interface GoodsService {
 	 */
 	PageInfo<Category> listCategory( String firstChar,int page); 
 	/**
-	 * 娴犮儲鐖查惃鍕埌瀵繑妯夌粈鍝勫灙鐞涳拷
+	 *以树的形式显示列表
 	 * @return
 	 */
 	List<Category> treeCategory(); 

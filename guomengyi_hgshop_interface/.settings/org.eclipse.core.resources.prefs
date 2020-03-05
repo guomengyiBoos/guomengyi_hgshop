@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
 encoding//src/main/java/com/mengyi/entity/Category.java=UTF-8
+encoding//src/main/java/com/mengyi/entity/Spec.java=UTF-8
 encoding//src/main/java/com/mengyi/service/GoodsService.java=UTF-8
+encoding//src/main/java/com/mengyi/service/SpecService.java=UTF-8
